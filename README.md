@@ -1,7 +1,7 @@
 # ACM MiCS Meeting
 
 ![SIU ACM](https://raw.githubusercontent.com/siucacm/MiCS-Meeting/master/imgs/siuacm_logo.png)
-![MiCS](https://raw.githubusercontent.com/siucacm/MiCS-Meeting/master/imgs/mics_logo.png)
+![MiCS](https://raw.githubusercontent.com/siucacm/MiCS-Meeting/master/imgs/mics_logo.png =250x)
 
 This will be are last meeting of the semester!
 
