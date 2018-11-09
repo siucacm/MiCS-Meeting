@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/siucacm/MiCS-Meeting/master/imgs/mics_logo.png" width="200px">
 
 This will be are last meeting of the semester!
-
+---
 Topics that will be discussed in this meeting:
 * ACM next semester
 * Hackathons 
@@ -38,5 +38,5 @@ A few ideas we have are:
 * Bake Sale
 
 Think of some more ideas!
-
+---
 Thanks for joining us this semester, good luck on finals!
